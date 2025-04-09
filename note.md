@@ -1,1 +1,1 @@
-git is good
+Updated note
