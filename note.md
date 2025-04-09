@@ -1,1 +1,1 @@
-my name naw khu paw moo
+git is good
